@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @divya
+- 👀 I’m interested in ...Front-end development
+- 🌱 I’m currently learning ...New things
+- 📫 How to reach me ...email: divyadhanapalan23@gmail.com
